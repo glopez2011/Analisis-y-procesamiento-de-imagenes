@@ -3,7 +3,7 @@
 El proyecto para realizar el análisis y procesamiento de imagnes se basó en elementos de una Ferretería.
 
 
-# Obejectivos
+# Objectivos
 Identificar 
 Dimensiones
 Longitudes
